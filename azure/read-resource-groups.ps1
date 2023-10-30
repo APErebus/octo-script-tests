@@ -1,1 +1,1 @@
-az group list
+& az group list
